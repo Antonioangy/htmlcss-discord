@@ -1,0 +1,76 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+/* Parte iniziale pagina */
+header{
+    background-color: #698ef0;
+    height: 700px;
+}
+/* parte superiore della pagina */
+.containerlogo {
+    width: 70%;
+    margin: 0 auto;
+    background-color: blue;
+    height: 100px;
+
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    color: white;
+    margin-right: 30px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sfondo{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+    
+    
+}
+
+
+
+/* parte centrale pagina */
+main{
+    margin: 50px 0;
+}
+
+section{
+    height: 700px;
+
+}
+
+/* parte finale pagina */
+footer{
+    background-color: blue;
+    height: 300px;
+}
